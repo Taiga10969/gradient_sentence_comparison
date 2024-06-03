@@ -1,0 +1,4 @@
+torch == 2.3.0
+torchviz == 0.0.2
+transformers == 4.39.2
+sentence-transformers == 2.6.1
